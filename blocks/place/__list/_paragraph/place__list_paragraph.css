@@ -1,0 +1,11 @@
+.place__list_paragraph {
+    font-size: 1.125rem;
+    line-height: 1.67;
+}
+
+@media screen and (max-width: 768px) {
+    .place__list_paragraph {
+        font-size: 1rem;
+        line-height: 1.62;
+    }
+}
