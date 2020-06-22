@@ -12,9 +12,10 @@
     }
 }
 
-@media screen and(max-width: 320) {
+@media screen and (max-width: 320px) {
     .place__title {
         font-size: 2rem;
         line-height: 1.09;
+        padding: 0 16px 0 16px;
     }
 }
