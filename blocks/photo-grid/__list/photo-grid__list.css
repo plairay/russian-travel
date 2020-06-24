@@ -1,5 +1,3 @@
-@import url('./_item/photo-grid__list_item.css');
-
 .photo-grid__list {
     list-style: none;
     display: grid;

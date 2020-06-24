@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', ‘Arial’, sans-serif;
     margin: 0 auto;
     padding: 92px 48px 24px 48px;
 }
@@ -15,7 +15,6 @@
 @media screen and (max-width: 1024px) {
     .footer {
         max-width: 928px;
-
     }
 }
 
